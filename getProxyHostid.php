@@ -1,5 +1,5 @@
 <?php
-
+//コメント追加
 function get_proxy_hostid( $proxyhostName, $auth ,$nameflg = false)
 {
 	include "config.php";
