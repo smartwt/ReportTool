@@ -2,6 +2,7 @@
 //コメント追加
 function get_proxy_hostid( $proxyhostName, $auth ,$nameflg = false)
 {
+	echo "AAAA";
 	include "config.php";
     $result="";
 	$serverIp = $zabtool['SERVER_IP'];
